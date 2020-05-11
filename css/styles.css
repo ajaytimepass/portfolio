@@ -1,0 +1,139 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+  /* font-size: 46px; */
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 0;
+  font-size: 4.75rem;
+  color: #66BFBF;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+    color: #66BFBF;
+
+}
+ h3 {
+   font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+p {
+  line-height: 2;
+}
+hr {
+  border: dotted #E4F6F6;
+  border-bottom: none;
+  border-width: thick;
+  width: 4%;
+  margin: 50px auto;
+}
+
+.head {
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin-top: 0;
+  color: #66BFBF;
+}
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+.container-scaling {
+  height: 200px;
+  width: 200px;
+}
+.pro-text {
+  text-decoration: underline;
+  font-family: 'Sacramento', cursive;
+  font-size: 22px;
+  font-weight: bolder;
+}
+
+
+.top-cloud-img {
+  position: absolute;
+  right: 400px;
+  top: 36px;
+}
+.bottom-cloud-img{
+  position: absolute;
+  left: 300px;
+  top: 200px;
+}
+.profile {
+
+  width: 40%;
+  margin: 50px auto;
+}
+
+.profile-txt {
+  line-height: 2;
+}
+.web-img {
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 20px;
+}
+.and-img {
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 20px;
+}
+/* h3{
+
+} */
+.skill-row {
+  width: 45%;
+  margin: 100px auto;
+  text-align: left;
+
+}
+.skills {
+  margin: 50px auto;
+}
+.contact-me {
+  /* padding: 50px 0; */
+}
+
+.contact-msg {
+  width: 30%;
+  margin: 50px auto;
+}
+.btn {
+    background-color: #11CDD4;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 8%;
+    color: #FFFF;
+}
+.contact-me {
+  margin: 50px auto;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0;
+}
+.bottom-container a {
+  text-decoration: none;
+  color: #11779A;
+  margin-left: 30px;
+
+}
+.copyrights {
+  color: #EAF6F6;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
